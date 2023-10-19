@@ -1,11 +1,11 @@
 # Real Estate Data Analysis Study Project
 
-### Project Overview
+## Project Overview
 This project marks a significant milestone in my journey as a data analyst. It involves in-depth analysis of real estate data sourced from Yandex Real Estate, encompassing apartment sale listings in St. Petersburg and nearby areas spanning multiple years. The primary objective of this study is to gain insights into determining the market value of real estate properties. The outcome of this research will contribute to the development of an automated system capable of identifying anomalies and fraudulent activities in real estate listings.
 
 Each apartment listing for sale contains two distinct types of data. The first type is user-provided information, while the second type is automatically generated based on cartographic data. For instance, data such as the distance to the city center, airport, and other landmarks are autonomously retrieved from geoservices. Additionally, information on the number of parks and water bodies is populated without user input.
 
-### The project involves the following key stages:
+## The project involves the following key stages:
 
 1. **Data Exploration**: Commencing with loading the dataset and conducting an initial examination to understand its structure and contents. This phase includes the creation of histograms for numerical columns to gain an overview of data distribution.
 
